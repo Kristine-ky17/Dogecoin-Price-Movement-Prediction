@@ -1,4 +1,4 @@
-# Dogecoin Price Prediction using LSTM  
+# Dogecoin Price Movements Prediction using LSTM  
 *(NUS FinTech Society Trainee Programme – AY24/25 Sem 1 Final Project)*  
 
 ## 📌 Introduction  
