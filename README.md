@@ -24,7 +24,7 @@ Cryptocurrencies like Dogecoin are known for their high volatility. Accurate for
 
 2. **Model Development**  
    - Built an LSTM model using TensorFlow/Keras  
-   - Tuned hyperparameters
+   - Automated hyperparameter tuning of the LSTM model using Optuna
    - Trained on historical time series data  
 
 3. **Evaluation**  
